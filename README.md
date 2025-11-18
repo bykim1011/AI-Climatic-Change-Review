@@ -28,7 +28,7 @@ README.md
   title  = {Data for “Analyzing global research trends in climate change and …”},
   author = {Byeongyeon Kim},
   year   = {2025},
-  doi    = {10.5281/zenodo.17423203},
+  doi    = {10.5281/zenodo.17637910},
   url    = {https://github.com/bykim1011/AI-Climatic-Change-Review}
 }
 
